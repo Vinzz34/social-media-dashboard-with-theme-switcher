@@ -1,0 +1,9 @@
+.pattern{
+    background-color: var(--bg-pattern);
+    width: 100%;
+    height: 245px; 
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    border-radius: 0 0 1rem 1rem;
+}
